@@ -1,1 +1,1 @@
-# CS50 Course - Module 1 - C Language - LESSONS
+# CS50 Course - Module 1 - C Language - Classes
