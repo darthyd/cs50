@@ -1,1 +1,1 @@
-# CS50 Course - Module 1 - C Language - EXERCISES
+# CS50 Course - Module 1 - C Language - Exercises
